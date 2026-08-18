@@ -1,0 +1,31 @@
+{
+  "payload": {
+    "protocol": "SHUOOR_UPDATE_V1",
+    "schema_version": 1,
+    "product_id": "SHUOR_GX_R5",
+    "program_public_id": "100006",
+    "product_name": "شعور GX-R5 • Shuor VIP",
+    "version": "V21.6.0",
+    "build_number": 4,
+    "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
+    "entrypoint_relative_path": "شعور-GX-R5_V21_6_0_BUILD1_FINAL_تحديث_كل_شيء_بأمان.exe",
+    "entrypoint_sha256": "4D6A03EF9087B2BF5B528CF087F5710721DEEF29ACE0DA57DF077821F17FEACB",
+    "entrypoint_kind": "WINDOWS_EXE",
+    "title": "تجريبي",
+    "description": "اكتب شي بسيط وواضح، مثل:\n\nهذا تحديث تجريبي لنظام التحديث التلقائي. لا توجد تغييرات على وظائف البرنامج. الهدف فقط اختبار تنزيل التحديث وتثبيته بشكل آمن مع الحفاظ على الإعدادات والملفات الحالية.\n\nهي الأنسب لأول اختبار.",
+    "mandatory": false,
+    "published_at_utc": "2026-08-18T21:15:06Z",
+    "release_tag": "SHUOR_GX_R5-B000004",
+    "package_filename": "SHUOR_GX_R5_B000004.zip",
+    "package_sha256": "F7F911CF3C5209C0474473542994A214B1D60E455FFDAC5C41CB5C4D73BFC45B",
+    "package_size_bytes": 109766053,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000004/SHUOR_GX_R5_B000004.zip",
+    "update_mode": "OVERLAY_ALL_V1",
+    "preserve_paths": [],
+    "protected_paths": [
+      "license.lic",
+      "trusted_state.bin"
+    ]
+  },
+  "signature": "cxxH299BUV6mijnA8d16D6RS+bY1O89yWnjOGQIODxXSrRzhTzyDM+/uNPY9i8XFvvlafODahVRXKYnU5apnDA=="
+}ِ
