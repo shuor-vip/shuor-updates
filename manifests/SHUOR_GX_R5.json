@@ -6,20 +6,20 @@
     "program_public_id": "100006",
     "product_name": "شعور GX-R5 • Shuor VIP",
     "version": "V21.6.0",
-    "build_number": 7,
+    "build_number": 9,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
     "entrypoint_relative_path": "شعور-GX-R5_V21_6_0_BUILD1_FINAL3_منع_تحديث_المصدر_وحماية_EXE.exe",
     "entrypoint_sha256": "9C73DAAB3DFF4CAABC32FCA6095575B8E3480515D6A0ED4A555FE1EB494406F2",
     "entrypoint_kind": "WINDOWS_EXE",
-    "title": "تحسين نظام التحديث التلقائي",
-    "description": "تحسين استقرار التحديث التلقائي، إصلاح تنزيل التحديث، وتحسين الأمان وإعادة التشغيل بعد التثبيت.",
+    "title": "8800 تجريبي",
+    "description": "هاد التحديث فيو  ملفات اضافيه مهمه جدا ! لهاذا انتبه جيدا لاتحذفها",
     "mandatory": false,
-    "published_at_utc": "2026-08-18T22:34:45Z",
-    "release_tag": "SHUOR_GX_R5-B000007",
-    "package_filename": "SHUOR_GX_R5_B000007.zip",
-    "package_sha256": "82E61F1A91B548E93C71E418B4997BF6866B13BFD7D0CE973C61CCF5148F1309",
-    "package_size_bytes": 109900829,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000007/SHUOR_GX_R5_B000007.zip",
+    "published_at_utc": "2026-08-19T00:42:47Z",
+    "release_tag": "SHUOR_GX_R5-B000009",
+    "package_filename": "SHUOR_GX_R5_B000009.zip",
+    "package_sha256": "A67F2BA1870B9BDBEB5EE3783A3604B711B5FD5FD1FFBFB79A38B8574B8A4FBE",
+    "package_size_bytes": 110849506,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000009/SHUOR_GX_R5_B000009.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "preserve_paths": [],
     "protected_paths": [
@@ -27,5 +27,5 @@
       "trusted_state.bin"
     ]
   },
-  "signature": "66lPh5qM77GxqpXUs9JJgB+nMT3vbZDXbm7sI5jSHnzWaaoVSgjeRcX+Nx5RGkqfLQ9m0Epq4wF6/FCcRSU0CA=="
+  "signature": "AWCKDP4sqt6dcTt8LhzgukzxJOiPlw/1pXBbdMAg3oo4hyTNjhi72PAZDtpJTIoB7X5LvtcyIsXRY54xL9HRCg=="
 }
