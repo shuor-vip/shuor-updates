@@ -1,0 +1,31 @@
+{
+  "payload": {
+    "protocol": "SHUOOR_UPDATE_V1",
+    "schema_version": 1,
+    "product_id": "SHUOOR_PHONE_AGENT_MX",
+    "program_public_id": "100011",
+    "product_name": "وكيل مهام الهاتف MX • Shuor VIP",
+    "version": "V21.6.5",
+    "build_number": 2,
+    "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
+    "entrypoint_relative_path": "وكيل_مهام_الهاتف_MX_-V21.6.5.exe",
+    "entrypoint_sha256": "07C4CEC36D34A5CB52DDA077D3C3F523F7CF811A4427B16FF1795CAA02D1CED5",
+    "entrypoint_kind": "WINDOWS_EXE",
+    "title": "التحديث التلقائي للعملاء تحسين تجربه المستخدم",
+    "description": "تم تطوير وكيل مهام الهاتف MX بإضافة نظام تحديث تلقائي كامل، مع تحسين رسائل الاشتراك والدعم، ومزامنة الإصدار تلقائيًا، ودعم تحديث اسم البرنامج والملفات بشكل آمن وسلس.",
+    "mandatory": true,
+    "published_at_utc": "2026-08-19T05:05:27Z",
+    "release_tag": "SHUOOR_PHONE_AGENT_MX-B000002",
+    "package_filename": "SHUOOR_PHONE_AGENT_MX_B000002.zip",
+    "package_sha256": "FC7B2D8D559DD7058F42F828B059624B49589BC014D32F026D40E762FF145279",
+    "package_size_bytes": 117850640,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOOR_PHONE_AGENT_MX-B000002/SHUOOR_PHONE_AGENT_MX_B000002.zip",
+    "update_mode": "OVERLAY_ALL_V1",
+    "preserve_paths": [],
+    "protected_paths": [
+      "license.lic",
+      "trusted_state.bin"
+    ]
+  },
+  "signature": "9kt6cmgWB+neL1y9WoqptAV4ATvU3Ia+wGwanEbUQUUln3RC/0pWi8sd4LExOY5L6jqUj6Wce2wKheJ7UtFJBw=="
+}
