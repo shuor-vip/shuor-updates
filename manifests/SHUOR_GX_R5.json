@@ -6,20 +6,20 @@
     "program_public_id": "100006",
     "product_name": "شعور GX-R5 • Shuor VIP",
     "version": "V21.6.5",
-    "build_number": 13,
+    "build_number": 14,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
-    "entrypoint_relative_path": "SH-R5-DM.exe",
-    "entrypoint_sha256": "3232A499E3C90B2CAA9A4481A2527197516540ACE458867382C834887F5B830A",
+    "entrypoint_relative_path": "شعور-SH-R5-DM -V21.6.5.exe",
+    "entrypoint_sha256": "AC3D609B2A477ACBCF9E75923867FE8778E455CD7B7D41566B9838748B809DF7",
     "entrypoint_kind": "WINDOWS_EXE",
     "title": "التحديث التلقائي للعملاء تحسين تجربه المستخدم",
-    "description": "تحسين شامل لتجربة شعور، مع تطوير التحديث التلقائي، رسائل الاشتراك والدعم، وتحسين توافق الاسم والأيقونة والملفات الجديدة.",
+    "description": "لمشكلة كانت إن عنوان شعور كان يأخذ الإصدار من رقم ثابت داخل الكود، رغم إن التحديث نفسه يحفظ الإصدار الجديد من المركز. الآن الإصدار الظاهر فوق نافذة شعور يأخذ آخر إصدار تم تثبيته فعليًا من المركز، ونفس الشي داخل نافذة التحديث. سابقًا كان العنوان يعتمد على SHUOOR_APP_VERSION الثابت مباشرة.",
     "mandatory": true,
-    "published_at_utc": "2026-08-19T04:05:54Z",
-    "release_tag": "SHUOR_GX_R5-B000013",
-    "package_filename": "SHUOR_GX_R5_B000013.zip",
-    "package_sha256": "0A1FB7BDB9702FA37A346F875211EFC988C879FFD98B2D6001F11EB65783ED0D",
-    "package_size_bytes": 110388503,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000013/SHUOR_GX_R5_B000013.zip",
+    "published_at_utc": "2026-08-19T04:24:50Z",
+    "release_tag": "SHUOR_GX_R5-B000014",
+    "package_filename": "SHUOR_GX_R5_B000014.zip",
+    "package_sha256": "CC0A43157B4BA672E4137CF6826783DA67605519DDBF3A40ED541D41381D9EAE",
+    "package_size_bytes": 109916003,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000014/SHUOR_GX_R5_B000014.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "preserve_paths": [],
     "protected_paths": [
@@ -27,5 +27,5 @@
       "trusted_state.bin"
     ]
   },
-  "signature": "/NHdF8WFk6v6B69wwvxASWC0cVC5dgFO2/R/63mz2b81LqPB9bh+ALN78SquugCznBvadkI97NhQB+ecMo0XAQ=="
+  "signature": "8Tg993b1HuXWJo6E/Th+NkVFzPH1IMdkdeJEJrYLja3Sv8t0bVr0TYWPKAxHINBquLAEOgEujNj6oJxUnfqWCA=="
 }
