@@ -5,8 +5,8 @@
     "product_id": "SHUOR_GX_R5",
     "program_public_id": "100006",
     "product_name": "شعور GX-R5 • Shuor VIP",
-    "version": "V21.6.3",
-    "build_number": 11,
+    "version": "V21.6.4",
+    "build_number": 12,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
     "entrypoint_relative_path": "شعور-GX-R5_V21_6_3_تحديث_اسم_EXE_تلقائيا.exe",
     "entrypoint_sha256": "319B8EAC9153A442E4A0E0CB272BD7B0B0620364027257FF85D55BB580111114",
@@ -14,12 +14,12 @@
     "title": "تحديث اسماء تلقائيا",
     "description": "اكتب شي بسيط وواضح، مثل:\n\nهذا تحديث تجريبي لنظام التحديث التلقائي. لا توجد تغييرات على وظائف البرنامج. الهدف فقط اختبار تنزيل التحديث وتثبيته بشكل آمن مع الحفاظ على الإعدادات والملفات الحالية.\n\nهي الأنسب لأول اختبار.",
     "mandatory": true,
-    "published_at_utc": "2026-08-19T01:59:32Z",
-    "release_tag": "SHUOR_GX_R5-B000011",
-    "package_filename": "SHUOR_GX_R5_B000011.zip",
+    "published_at_utc": "2026-08-19T02:09:50Z",
+    "release_tag": "SHUOR_GX_R5-B000012",
+    "package_filename": "SHUOR_GX_R5_B000012.zip",
     "package_sha256": "308BA741883D104D9904C3DBEAC8126A205369F484F35EACC176AB6FF70E68F5",
     "package_size_bytes": 114796099,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000011/SHUOR_GX_R5_B000011.zip",
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000012/SHUOR_GX_R5_B000012.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "preserve_paths": [],
     "protected_paths": [
@@ -27,5 +27,5 @@
       "trusted_state.bin"
     ]
   },
-  "signature": "LMXM//MwXUieDhvOgCLTKy/QqyZTbNPyXvC9QRu3JUPUASwHaNQ3NRrjXacmYfKUs+kyBLT0gIkSwZ/jzwE3CA=="
+  "signature": "JpBThFzWwixbC2e454hK0rI901XyW/3FtRwXs/pLBHDh9x18UaNxPn2nJbTzw/NIwI0KFFhlrg8n4TCE8hzcBQ=="
 }
