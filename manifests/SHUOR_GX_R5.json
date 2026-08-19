@@ -5,21 +5,21 @@
     "product_id": "SHUOR_GX_R5",
     "program_public_id": "100006",
     "product_name": "شعور GX-R5 • Shuor VIP",
-    "version": "V21.6.0",
-    "build_number": 9,
+    "version": "V21.6.2",
+    "build_number": 10,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
-    "entrypoint_relative_path": "شعور-GX-R5_V21_6_0_BUILD1_FINAL3_منع_تحديث_المصدر_وحماية_EXE.exe",
-    "entrypoint_sha256": "9C73DAAB3DFF4CAABC32FCA6095575B8E3480515D6A0ED4A555FE1EB494406F2",
+    "entrypoint_relative_path": "شعور-GX-R5_V21_6_2_رسائل_مستخدم.exe",
+    "entrypoint_sha256": "2DF17A47DF1CFDB0C2583DA3B87A27CA8940663005D4F17A8BBC50BE34958357",
     "entrypoint_kind": "WINDOWS_EXE",
-    "title": "8800 تجريبي",
-    "description": "هاد التحديث فيو  ملفات اضافيه مهمه جدا ! لهاذا انتبه جيدا لاتحذفها",
-    "mandatory": false,
-    "published_at_utc": "2026-08-19T00:42:47Z",
-    "release_tag": "SHUOR_GX_R5-B000009",
-    "package_filename": "SHUOR_GX_R5_B000009.zip",
-    "package_sha256": "A67F2BA1870B9BDBEB5EE3783A3604B711B5FD5FD1FFBFB79A38B8574B8A4FBE",
-    "package_size_bytes": 110849506,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000009/SHUOR_GX_R5_B000009.zip",
+    "title": "تحسين تجربة المستخدم والدعم الذكي",
+    "description": "تم تحسين تجربة شعور بشكل شامل ✨\nيتضمن هذا التحديث تحسين رسائل الاشتراك والتفعيل والدعم، وتطوير رسائل واتساب والبريد الإلكتروني لتكون أوضح وأنسب حسب الحالة، مع تحسين رسائل انتهاء الاشتراك والإيقاف ومشاكل الاتصال والتفعيل.\n\nكما تم تحسين تجربة التحديث لتكون أبسط وأوضح للمستخدم، مع إزالة التفاصيل التقنية غير المهمة من الرسائل الظاهرة.\n\nننصح بتثبيت التحديث للحصول على تجربة أكثر سلاسة ووضوحًا.",
+    "mandatory": true,
+    "published_at_utc": "2026-08-19T01:31:57Z",
+    "release_tag": "SHUOR_GX_R5-B000010",
+    "package_filename": "SHUOR_GX_R5_B000010.zip",
+    "package_sha256": "EC031D0538582EF6161AD63D8461A89D19C38C64D35508346B03EDB83B38230B",
+    "package_size_bytes": 114795926,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000010/SHUOR_GX_R5_B000010.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "preserve_paths": [],
     "protected_paths": [
@@ -27,5 +27,5 @@
       "trusted_state.bin"
     ]
   },
-  "signature": "AWCKDP4sqt6dcTt8LhzgukzxJOiPlw/1pXBbdMAg3oo4hyTNjhi72PAZDtpJTIoB7X5LvtcyIsXRY54xL9HRCg=="
+  "signature": "tGaRxpchtMHwm3s1KElbmh2JnFtMlWTU+nnT/y6mbzVbSGDdjmcxG+A4xAIiKDeuTVNj+pvGySG+DFhnAQnwCA=="
 }
