@@ -4,22 +4,22 @@
     "schema_version": 1,
     "product_id": "SHUOR_GX_R5",
     "program_public_id": "100006",
-    "product_name": "شعور VIP",
-    "version": "V21.6.6",
-    "build_number": 15,
+    "product_name": "SH-R5-DAMA • غرفة العمليات",
+    "version": "V21.6.7",
+    "build_number": 16,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
-    "entrypoint_relative_path": "شعور-SH-R5-DM -V21.6.5.exe",
-    "entrypoint_sha256": "AC3D609B2A477ACBCF9E75923867FE8778E455CD7B7D41566B9838748B809DF7",
+    "entrypoint_relative_path": "SH-R5-DAMA.exe",
+    "entrypoint_sha256": "DE03C19D9D770585A9CCDA9608EADCF5275570F672E116ABE86158ADF714499D",
     "entrypoint_kind": "WINDOWS_EXE",
-    "title": "تحديث شعور VIP V21.6.6",
-    "description": "تحديث علاء",
+    "title": "تحديث SH-R5-DAMA • غرفة العمليات V21.6.7",
+    "description": "وصف تحديث جاهز للنشر للمستخدمين\n\nالإصدار SH-R5-DAMA V21.6.7\n\nأطلقنا تحديثًا جديدًا يركز على دقة الرصد، أمان التنفيذ، وسهولة التحكم.\n\nأصبح البرنامج الآن أكثر تحفظًا عند قراءة الرقعة؛ فهو لا يعتمد على صورة ناقصة أو مؤقتة، ولا يعتبر المباراة منتهية إلا بعد تثبيت النتيجة بشكل موثوق. وعند ظهور نافذة أو إعلان فوق الرقعة، يتم إيقاف الحركة والمعايرة مؤقتًا مع الحفاظ على آخر حالة مؤكدة، ثم يعود الرصد تلقائيًا بعد وضوح الصورة.\n\nتم تحسين المعايرة لتتعرف تلقائيًا على جهة اللاعب من موقعها السفلي حتى عند تغير ألوان الأحجار بين الجولات، كما تم تحسين التعامل مع الملوك وبدايات المباريات وتغير عدد القطع أثناء الانتقالات. وأضيف ضبط تلقائي لوقت التفكير حسب مرحلة المباراة، مع تنفيذ أكثر استقرارًا للحركات المتسلسلة.\n\nعلى مستوى الواجهة، أصبح اختيار النموذج متاحًا مباشرة من شريط سريع، ونُقلت خيارات التوثيق والرصد إلى تبويب مستقل، وأصبحت الإعدادات المتقدمة مطوية افتراضيًا لتبقى الشاشة الرئيسية أبسط. كما تم تحسين غرفة العمليات لتعرض سبب الانتظار أو التنفيذ بصورة أوضح، مع سجل واجهة يقلل التكرار ويصنف التنبيهات والأخطاء.\n\nوأصبح حفظ سجلات التشخيص على القرص اختياريًا بدل إنشائها تلقائيًا. يمكن تفعيله من الإعدادات المتقدمة ← الرصد عند الحاجة إلى تحليل مشكلة أو إرسال تقرير للدعم.\n\nيأتي هذا التحديث أيضًا ببداية تشغيل أسرع؛ إذ تظهر الواجهة مباشرة بينما يتم تجهيز النموذج في الخلفية، مع الحفاظ على مزامنة الإصدار والتحديث التلقائي في نسخة EXE.\n\nننصح جميع المستخدمين بالتحديث إلى هذه النسخة للحصول على تجربة أكثر استقرارًا ووضوحًا وأمانًا أثناء الرصد والتنفيذ.",
     "mandatory": false,
-    "published_at_utc": "2026-08-19T13:48:00Z",
-    "release_tag": "SHUOR_GX_R5-B000015",
-    "package_filename": "SHUOR_GX_R5_B000015.zip",
-    "package_sha256": "CC0A43157B4BA672E4137CF6826783DA67605519DDBF3A40ED541D41381D9EAE",
-    "package_size_bytes": 109916003,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000015/SHUOR_GX_R5_B000015.zip",
+    "published_at_utc": "2026-08-22T02:03:29Z",
+    "release_tag": "SHUOR_GX_R5-B000016",
+    "package_filename": "SHUOR_GX_R5_B000016.zip",
+    "package_sha256": "8C64FA5D794C93F18B7A7697D4F3864F75FDFF2C0F1D03DDF15F7AB6A7314D7A",
+    "package_size_bytes": 111083013,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000016/SHUOR_GX_R5_B000016.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "preserve_paths": [],
     "protected_paths": [
@@ -27,5 +27,5 @@
       "trusted_state.bin"
     ]
   },
-  "signature": "grD43x5ad18axu2DUk06X+QR8YzUzhygtFMmdOg6e8l5sRrArFbwKDUFyDNZXlSa0/dci5qXtThbxj27KMOwDQ=="
+  "signature": "Mht+49NZ7YHyB64JvNSsjxJkUk3XiKuyPUMkXKqGnb1kYtub78nsD0Qu/0h5GfoOxW/y3dy9ydboHO6kgkaZAg=="
 }
