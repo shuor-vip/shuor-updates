@@ -6,7 +6,7 @@
     "program_public_id": "100006",
     "product_name": "SH-R5-DAMA • ضامه VIP",
     "version": "V21.6.13",
-    "build_number": 26,
+    "build_number": 27,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
     "entrypoint_relative_path": "SH-R5-DAMA.exe",
     "entrypoint_sha256": "807E5A9EF0C381B4861C464E8E5E6504477A41C12FCF6BB668FF9351EB887E69",
@@ -14,12 +14,12 @@
     "title": "اصلاحات شامله مع نموذج",
     "description": "",
     "mandatory": true,
-    "published_at_utc": "2026-08-28T23:14:15Z",
-    "release_tag": "SHUOR_GX_R5-B000026",
-    "package_filename": "SHUOR_GX_R5_B000026.zip",
-    "package_sha256": "1602FBDCA809393BABF7BC1C94F72228EA01617C2B418109C573B568E3CF5BF5",
-    "package_size_bytes": 108311426,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000026/SHUOR_GX_R5_B000026.zip",
+    "published_at_utc": "2026-08-28T23:38:35Z",
+    "release_tag": "SHUOR_GX_R5-B000027",
+    "package_filename": "SHUOR_GX_R5_B000027.zip",
+    "package_sha256": "D497369FA85008BD67AE1F523AF76C632073192D35DCEB49C51871CACEB8803C",
+    "package_size_bytes": 107820016,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000027/SHUOR_GX_R5_B000027.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "install_standard": "SHUOOR_ATOMIC_INSTALL_V3",
     "install_engine_min_version": 3,
@@ -32,20 +32,16 @@
       "license.lic",
       "trusted_state.bin"
     ],
-    "models_policy": "REPLACE_ALL",
+    "models_policy": "MERGE_KEEP_OLD",
     "models_directories": [
       "النماذج",
       "models"
     ],
     "legacy_models_bridge": {
-      "enabled": true,
-      "protocol": "SHUOOR_LEGACY_MODELS_BRIDGE_V1",
-      "folder": "__shuor_models_bridge_B000026__",
-      "model_directory": "النماذج",
-      "models_policy": "REPLACE_ALL",
-      "file_count": 1,
-      "dll_count": 1
+      "enabled": false,
+      "file_count": 0,
+      "dll_count": 0
     }
   },
-  "signature": "a3Ilx1e7do2Xh7FrJKIv4do/v+PAxGB/9U63MkuQNyPWsNmi/m7W0YKb33+LgtnGbsV0fGcTr1Zvhk8ml7/iCA=="
+  "signature": "DYJNAfZChAP7CAJcY4MIPrwclBxpJKOGKg2BbAKh6ZjsgFV0UeWGEwGMjBD+5XufpmlG3uTSXt1YPsuhwmZNDg=="
 }
