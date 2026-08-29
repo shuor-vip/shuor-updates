@@ -5,25 +5,25 @@
     "product_id": "SHUOR_GX_R5",
     "program_public_id": "100006",
     "product_name": "SH-R5-DAMA • ضامه VIP",
-    "version": "V21.6.13",
-    "build_number": 27,
+    "version": "V21.6.14",
+    "build_number": 28,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
     "entrypoint_relative_path": "SH-R5-DAMA.exe",
-    "entrypoint_sha256": "807E5A9EF0C381B4861C464E8E5E6504477A41C12FCF6BB668FF9351EB887E69",
+    "entrypoint_sha256": "151779601470587358FF4D83144177FFC2C6E285981979F7AF2CBE65CB30646B",
     "entrypoint_kind": "WINDOWS_EXE",
-    "title": "اصلاحات شامله مع نموذج",
-    "description": "",
+    "title": "اصلاحات التحديث",
+    "description": "تم اصدار نموذج جديد \nSHUOR SG\nواصلاحات  اضافيه ....",
     "mandatory": true,
-    "published_at_utc": "2026-08-28T23:38:35Z",
-    "release_tag": "SHUOR_GX_R5-B000027",
-    "package_filename": "SHUOR_GX_R5_B000027.zip",
-    "package_sha256": "D497369FA85008BD67AE1F523AF76C632073192D35DCEB49C51871CACEB8803C",
-    "package_size_bytes": 107820016,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000027/SHUOR_GX_R5_B000027.zip",
+    "published_at_utc": "2026-08-29T18:34:45Z",
+    "release_tag": "SHUOR_GX_R5-B000028",
+    "package_filename": "SHUOR_GX_R5_B000028.zip",
+    "package_sha256": "39B8A4BF3294AB04FB62A3359EC29793B198D6FE68F9FEE627D236DC22E7B7AC",
+    "package_size_bytes": 107913649,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000028/SHUOR_GX_R5_B000028.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "install_standard": "SHUOOR_ATOMIC_INSTALL_V3",
     "install_engine_min_version": 3,
-    "client_update_engine": 6,
+    "client_update_engine": 4,
     "package_layout": "PYINSTALLER_ONEDIR",
     "package_layout_version": 2,
     "atomic_install_required": true,
@@ -32,16 +32,11 @@
       "license.lic",
       "trusted_state.bin"
     ],
-    "models_policy": "MERGE_KEEP_OLD",
+    "models_policy": "REPLACE_ALL",
     "models_directories": [
       "النماذج",
       "models"
-    ],
-    "legacy_models_bridge": {
-      "enabled": false,
-      "file_count": 0,
-      "dll_count": 0
-    }
+    ]
   },
-  "signature": "DYJNAfZChAP7CAJcY4MIPrwclBxpJKOGKg2BbAKh6ZjsgFV0UeWGEwGMjBD+5XufpmlG3uTSXt1YPsuhwmZNDg=="
+  "signature": "pwQDG4tveSQqtfF4dvNoIebm8cz4CRllKaKowHGYhhaXU4WYrhuGMz5jUpkU17jDHsb2NQL78dRBmJC+5RwHCQ=="
 }
