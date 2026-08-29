@@ -5,25 +5,25 @@
     "product_id": "SHUOOR_PHONE_AGENT_MX",
     "program_public_id": "100011",
     "product_name": "SH-G-MAX — وكيل المهام الذكي",
-    "version": "V21.6.12",
-    "build_number": 10,
+    "version": "V21.6.13",
+    "build_number": 11,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
     "entrypoint_relative_path": "وكيل_الهاتفSH-G-MAX.exe",
-    "entrypoint_sha256": "D882D34129E22BD7A33FCCF04DA570260E3D09F65FF2345F284BF953A54998DC",
+    "entrypoint_sha256": "B55E19201711DD209EEE5FB9DB6785EA549086F382142B5B607C6C8370D2BDA4",
     "entrypoint_kind": "WINDOWS_EXE",
-    "title": "30تحديث تحسين الأداء والاستقرار ⚡",
-    "description": "تم تحسين وكيل الهاتف لتخفيف استهلاك المعالج بدون التأثير على سرعة الرادار أو حساسية اكتشاف التطبيقات والنوافذ.\n\nأبرز التحسينات:\n\nتخفيف استهلاك CPU أثناء المراقبة المستمرة.\nتحسين فحص البرامج والعمليات المفتوحة ومنع تكرار الفحوص غير الضرورية.\nتحسين سرعة التعامل مع قوالب الصور المستخدمة في المهام.\nالحفاظ على نفس سرعة وحساسية الرادار بدون إبطاء.\nالحفاظ على نظام إعادة فتح التطبيقات والتعامل مع النوافذ كما هو.\nتحسين تنفيذ مهام السحب والبحث بدون تغيير سلوك المستخدم.\nتقليل تحديثات بعض عناصر الواجهة غير الضرورية لزيادة السلاسة.\nجميع التحسينات تمت بدون تغيير إعدادات المستخدم أو منطق تنفيذ المهمات.\n\nالنتيجة: وكيل أخف على الجهاز، أكثر سلاسة واستقرارًا، مع الحفاظ على نفس سرعة المراقبة والتنفيذ.",
+    "title": "تحديث SH-G-MAX — وكيل المهام الذكي V21.6.13",
+    "description": "",
     "mandatory": true,
-    "published_at_utc": "2026-08-28T22:17:22Z",
-    "release_tag": "SHUOOR_PHONE_AGENT_MX-B000010",
-    "package_filename": "SHUOOR_PHONE_AGENT_MX_B000010.zip",
-    "package_sha256": "AE275C945183D6098E76E7B90A4F6A35FEBB3111CCE809F9D0C230DF9632CEAF",
-    "package_size_bytes": 115398017,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOOR_PHONE_AGENT_MX-B000010/SHUOOR_PHONE_AGENT_MX_B000010.zip",
+    "published_at_utc": "2026-08-29T19:00:14Z",
+    "release_tag": "SHUOOR_PHONE_AGENT_MX-B000011",
+    "package_filename": "SHUOOR_PHONE_AGENT_MX_B000011.zip",
+    "package_sha256": "FE5807344870477A21CAC0572A5D2F88650B738AA1F57E32581E3DA3DA2D0171",
+    "package_size_bytes": 115398449,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOOR_PHONE_AGENT_MX-B000011/SHUOOR_PHONE_AGENT_MX_B000011.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "install_standard": "SHUOOR_ATOMIC_INSTALL_V3",
     "install_engine_min_version": 3,
-    "client_update_engine": 4,
+    "client_update_engine": 3,
     "package_layout": "PYINSTALLER_ONEDIR",
     "package_layout_version": 2,
     "atomic_install_required": true,
@@ -36,12 +36,7 @@
     "models_directories": [
       "النماذج",
       "models"
-    ],
-    "legacy_models_bridge": {
-      "enabled": false,
-      "file_count": 0,
-      "dll_count": 0
-    }
+    ]
   },
-  "signature": "r1Q3M4R54TBkTqa+ZH6u0d8MXs1bREvqBIybJA8ZsHGJw+sAF73Odsg3TNW4+7gIA133pVowLtScFvEjnAHeAw=="
+  "signature": "+ZkKkvp9353HY/LklPBVVKo3tANhJdJuK7cxl6w4NQSr5vYQuKP0r4DhxWsuTusJuj45Gwv1L8ljeXxuxe2ECQ=="
 }
