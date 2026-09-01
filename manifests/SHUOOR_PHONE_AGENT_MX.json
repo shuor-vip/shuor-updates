@@ -6,20 +6,20 @@
     "program_public_id": "100011",
     "product_name": "SH-G-MAX — وكيل المهام الذكي",
     "version": "V21.6.15",
-    "build_number": 13,
+    "build_number": 14,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
     "entrypoint_relative_path": "وكيل_الهاتفSH-G-MAX.exe",
-    "entrypoint_sha256": "8C4CCBC064F764AA5EF6802DD64177B7EDBBF054D74F4540C82CC84D65A8A485",
+    "entrypoint_sha256": "B9599A7865177C123EC94424352D2A192E26D98C68CEFBB303B795A44ADF20EB",
     "entrypoint_kind": "WINDOWS_EXE",
     "title": "تحديث SH-G-MAX — وكيل المهام الذكي V21.6.15",
     "description": "### تحديث شامل للتشغيل والإيقاف\n\nتم إجراء مجموعة من الإصلاحات لتحسين **سرعة واستقرار تشغيل وإيقاف البرنامج** بشكل ملحوظ.\n\n* إصلاح مشكلة تأخر زر **الإيقاف** عن تنفيذ الأمر.\n* معالجة الحالات التي كان فيها البرنامج لا يتوقف من أول ضغطة.\n* تسريع الاستجابة عند **التشغيل والإيقاف**.\n* تحسين الانتقال بين حالة التشغيل والتوقف بدون تعليق.\n* تحسين استقرار الأزرار أثناء العمل المستمر.\n* إصلاح بعض المشاكل المتعلقة **بالبرامج المضافة التي يتم تشغيلها تلقائيًا**.\n* تحسين آلية تشغيل البرامج التلقائية لتكون أكثر استقرارًا ودقة.\n* معالجة بعض الحالات التي كان فيها البرنامج المضاف لا يبدأ بالشكل الصحيح أو يتأخر في التشغيل.\n\n**النتيجة:** تشغيل وإيقاف أسرع، استجابة أفضل للأزرار، واستقرار أكبر للبرامج التي تعمل تلقائيًا.",
     "mandatory": true,
-    "published_at_utc": "2026-09-01T01:57:23Z",
-    "release_tag": "SHUOOR_PHONE_AGENT_MX-B000013",
-    "package_filename": "SHUOOR_PHONE_AGENT_MX_B000013.zip",
-    "package_sha256": "99D04EC59DFDAD6238D7B2B74A8133E5F73D433B58FF51249B6951C080AB2CE7",
-    "package_size_bytes": 115382903,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOOR_PHONE_AGENT_MX-B000013/SHUOOR_PHONE_AGENT_MX_B000013.zip",
+    "published_at_utc": "2026-09-01T02:32:04Z",
+    "release_tag": "SHUOOR_PHONE_AGENT_MX-B000014",
+    "package_filename": "SHUOOR_PHONE_AGENT_MX_B000014.zip",
+    "package_sha256": "834025010E2A882B32684B99E72D86BE8AB0FE1138B5C2B0B63AD618C0AFA67A",
+    "package_size_bytes": 115387156,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOOR_PHONE_AGENT_MX-B000014/SHUOOR_PHONE_AGENT_MX_B000014.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "install_standard": "SHUOOR_ATOMIC_INSTALL_V3",
     "install_engine_min_version": 3,
@@ -38,5 +38,5 @@
       "models"
     ]
   },
-  "signature": "wkeSTRiTMClwaAEVYabld3rjJpbD38DCXItZpjb7gLeNKK68mhclOYIYxKKP2eEn9XhXfW0T0+IC1Zd/xzUNBQ=="
+  "signature": "9lJJKnseUybf5OzzK9GfDJ5wwGpvA9WQKVF1gmm/3PGHaoawtLSwHmVsAnk2UNQHoaDYA4K2rcHeO8EDjn4DAg=="
 }
