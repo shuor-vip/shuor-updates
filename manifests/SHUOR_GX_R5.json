@@ -6,7 +6,7 @@
     "program_public_id": "100006",
     "product_name": "SH-R5-DAMA • ضامه VIP",
     "version": "V21.6.16",
-    "build_number": 35,
+    "build_number": 36,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
     "entrypoint_relative_path": "SH-R5-DAMA_PRO-MAX.exe",
     "entrypoint_sha256": "36C417CBDD87535BF84D18569D09F03BC154B8D38E597080F67D52650161BBE8",
@@ -14,12 +14,12 @@
     "title": "تحديث SH-R5-DAMA • ضامه VIP V21.6.16",
     "description": "",
     "mandatory": true,
-    "published_at_utc": "2026-09-02T00:53:59Z",
-    "release_tag": "SHUOR_GX_R5-B000035",
-    "package_filename": "SHUOR_GX_R5_B000035.zip",
-    "package_sha256": "F16FD7C2A355FE793D87D21771DEB9448FD2B089AB6E824096B199E3F7532D77",
-    "package_size_bytes": 108807527,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000035/SHUOR_GX_R5_B000035.zip",
+    "published_at_utc": "2026-09-02T01:00:26Z",
+    "release_tag": "SHUOR_GX_R5-B000036",
+    "package_filename": "SHUOR_GX_R5_B000036.zip",
+    "package_sha256": "9113FFC316DC851CCB0CC1BEB14FF4C855C079F631C516CA7612F504481BF70B",
+    "package_size_bytes": 107810589,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000036/SHUOR_GX_R5_B000036.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "install_standard": "SHUOOR_ATOMIC_INSTALL_V3",
     "install_engine_min_version": 3,
@@ -32,11 +32,11 @@
       "license.lic",
       "trusted_state.bin"
     ],
-    "models_policy": "MERGE_KEEP_OLD",
+    "models_policy": "REPLACE_ALL",
     "models_directories": [
       "النماذج",
       "models"
     ]
   },
-  "signature": "Xs3jU9sxlSjHbFSupW6hBSnkZcIS6LSeoHvXGDUBJQVxB/HeBxGjv2zUg8WOcjy3C0wy4o665sHLguv4kLX4BQ=="
+  "signature": "QA2PAOnzvQVn0AhcO29ErP+/4UOHq1ZJwMGMk6iXmL7WqTkbMKCoxnNeXDmGchdoAK5KE3FCzZ9rD33RTbdFCQ=="
 }
