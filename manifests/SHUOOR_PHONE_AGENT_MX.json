@@ -5,21 +5,21 @@
     "product_id": "SHUOOR_PHONE_AGENT_MX",
     "program_public_id": "100011",
     "product_name": "SH-G-MAX — وكيل المهام الذكي",
-    "version": "V21.6.17",
-    "build_number": 19,
+    "version": "V21.6.18",
+    "build_number": 20,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
     "entrypoint_relative_path": "وكيل_الهاتفSH-G-MAX.exe",
-    "entrypoint_sha256": "0C0EBCE6C7D25A1BE8EB2ED8DF83DDCCFC7EC26F3543F4E1F35A624BCCE0C28D",
+    "entrypoint_sha256": "4140C04CB8C518518AA70FCA6AD4895512C4178792EE0D91BAEA2B04F1948C53",
     "entrypoint_kind": "WINDOWS_EXE",
-    "title": "🚀 تحديث شامل وكبير لوكيل الهاتف SH-G-MAX",
+    "title": "🚀 تحديث شامل لوكيل الهاتف SH-G-MAX",
     "description": "تم تطوير الوكيل بشكل واسع ليصبح أسرع، أذكى، أكثر ثباتًا وأسهل في الاستخدام. شمل التحديث إعادة تصميم وتحسين بطاقات المهام والتطبيقات والمهمل، إضافة أوامر سياقية واضحة للتعديل والتكرار والتعطيل والحذف، تحسين التحديد وإلغاء التحديد، وتنظيم الجانبية والفاصل الأوسط مع حد تصغير آمن يمنع تشوه البطاقات أو اختفاء الأزرار.\n\nتم أيضًا إعادة ترتيب إعدادات المهمات ووضع الخيارات الأكثر استخدامًا في مكانها الصحيح، وتوحيد منطق النقر العادي والمستمر والسريع والبطيء وإزالة التعارضات بين شروط «حتى تختفي الصورة» والمدة، مع تحسين استجابة الواجهة وتقليل حالات الانتظار التي قد تسبب بطئًا أو تجمدًا.\n\nأما محرك التنفيذ فحصل على تحسينات مهمة جدًا: أصبح يميز بين بقاء المهمة ظاهرة وبين اختفائها ثم ظهورها من جديد ليعيد تنفيذها بالشكل الصحيح، كما تم تطوير تنويع الحركة الطبيعي ليغيّر نقاط النقر ومسارات السحب بذكاء، ويتجنب تكرار نفس منطقة بداية السحب مع المحافظة على حدود آمنة.\n\nكذلك تم تطوير الإيقاف الفوري ليعمل مباشرة من الاختصار المختار حتى أثناء السحب والحركات الطويلة، مع تحرير الماوس فورًا وعدم انتظار انتهاء الحركة.\n\nكما تم تحسين تشغيل وإيقاف البرامج الخارجية، والحفاظ على استقرار ملفات Python عند تشغيل الوكيل كـEXE، وتحسين حفظ أحجام ومواضع النوافذ بحيث لا يتم حفظ حجم Maximized أو Full Screen ويتم الاحتفاظ بآخر حجم طبيعي للمستخدم.\n\n✨ النتيجة: واجهة أنظف، تحكم أسهل، استجابة أسرع، تنفيذ أكثر ذكاءً، حركات أكثر طبيعية، وثبات أعلى بكثير في الاستخدام اليومي.",
     "mandatory": true,
-    "published_at_utc": "2026-09-02T14:37:50Z",
-    "release_tag": "SHUOOR_PHONE_AGENT_MX-B000019",
-    "package_filename": "SHUOOR_PHONE_AGENT_MX_B000019.zip",
-    "package_sha256": "EE0CF0B60FB2135558778282015F850992E0C6F855ABE410A6A60779CA7D9F89",
-    "package_size_bytes": 115406776,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOOR_PHONE_AGENT_MX-B000019/SHUOOR_PHONE_AGENT_MX_B000019.zip",
+    "published_at_utc": "2026-09-02T15:12:45Z",
+    "release_tag": "SHUOOR_PHONE_AGENT_MX-B000020",
+    "package_filename": "SHUOOR_PHONE_AGENT_MX_B000020.zip",
+    "package_sha256": "51A403ADD21AF8AD81F2299267E8C4CB7EC49FB1D88DFF29D39B2F1E8AD89EBB",
+    "package_size_bytes": 115407440,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOOR_PHONE_AGENT_MX-B000020/SHUOOR_PHONE_AGENT_MX_B000020.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "install_standard": "SHUOOR_ATOMIC_INSTALL_V3",
     "install_engine_min_version": 3,
@@ -38,5 +38,5 @@
       "models"
     ]
   },
-  "signature": "S/yScF6HIkdWwb+foe/YDxiizMJ2nseljMNfXBRfKme+NlNs6De7TEKS9VmC7FJM5ZegC3ZQ70QxghdFQaqSBQ=="
+  "signature": "X8OWNanpCzRVF0Se+MVQ5upQx8XVhP801qctdF9C/BAjW3RTOwhEQl2rRax9Rsxm9Vkely08adaPR3Hz9ZE6Dw=="
 }
