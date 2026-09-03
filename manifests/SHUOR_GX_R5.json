@@ -5,21 +5,21 @@
     "product_id": "SHUOR_GX_R5",
     "program_public_id": "100006",
     "product_name": "SH-R5-DAMA • ضامه VIP",
-    "version": "V21.6.18",
-    "build_number": 40,
+    "version": "V21.6.19",
+    "build_number": 41,
     "runtime_identity": "SHUOOR_SIGNED_ENTRYPOINT_V1",
-    "entrypoint_relative_path": "SH-R5-DAMA_PRO-MAX.exe",
+    "entrypoint_relative_path": "SH-R5-DAMA.exe",
     "entrypoint_sha256": "E58E84F2AA4D7EC00B2C102F80C788606099FA01CD79CB34455C146136806109",
     "entrypoint_kind": "WINDOWS_EXE",
-    "title": "تحديث SH-R5-DAMA • ضامه VIP V21.6.18",
+    "title": "تحديث SH-R5-DAMA • ضامه VIP V21.6.19",
     "description": "🚀 **SH-SG-MAX*\n\nتم إطلاق نموذج اللعب الجديد **SH-SG-MAX** مع مجموعة كبيرة من التحسينات التي ترفع مستوى الأداء والثبات أثناء اللعب.\n\n🧠 **نموذج أقوى وأكثر تطورًا**\nتحسين أسلوب اتخاذ القرار والتعامل مع المواقف المعقدة، مع تركيز أكبر على اللعب الآمن، استغلال الفرص، وإنهاء المواجهات بأفضل شكل ممكن.\n\n⚡ **استجابة أسرع وأكثر سلاسة**\nتحسين توقيت تنفيذ النقلات والأكل المتسلسل لتصبح الحركة أسرع وأكثر طبيعية، مع تقليل الانتظار غير الضروري.\n\n👁️ **رؤية أكثر ثباتًا ودقة**\nتطوير قراءة الرقعة ومزامنتها مع النموذج، مع حماية أقوى من القراءات القديمة أو غير المكتملة أثناء تحرك الأحجار.\n\n🔥 **تحسين كبير لسلاسل الأكل**\nتنفيذ أكثر دقة للقفزات المتعددة، مع متابعة حقيقية لكل خطوة والتأكد من اكتمالها قبل الانتقال للخطوة التالية.\n\n🎯 **نقر وحركة أكثر طبيعية**\nتنويع ذكي وآمن في أماكن النقر وسرعة التنفيذ ليصبح الأداء أكثر انسيابية وطبيعية أثناء اللعب.\n\n🛡️ **ثبات أعلى ضد الإعلانات والتداخلات**\nتحسين استعادة الرقعة بعد ظهور إعلان أو نافذة فوق اللعب، مع منع تنفيذ أي حركة حتى تعود حالة الرقعة مؤكدة وآمنة.\n\n🏆 **تأكيد أقوى لنتائج المباريات**\nتطوير نظام الفوز والخسارة والتعادل لتقليل النتائج الوهمية وضمان الانتقال بشكل أنظف بين نهاية المباراة وبداية الجولة الجديدة.\n\n♟️ **ذكاء أفضل في نهايات المباريات**\nتحسين التعامل مع حالات قلة الأحجار والملوك، بالإضافة إلى تطوير التعامل مع التعادل ومحاولات كسره بدون مجازفات غير محسوبة.\n\n🚀 **أداء أخف وأكثر ذكاءً**\nتقليل استهلاك المعالج عندما تكون الرقعة مستقرة، مع العودة فورًا إلى كامل قوة الفحص عند حدوث أي تغيير.\n\n🎛️ **تحكم أكبر للمستخدم**\nتحسين إعدادات سرعة اللعب، سرعة الأكل المتسلسل واستجابة الرؤية، مع تطبيق مباشر وحفظ الإعدادات.\n\n✨ **تحسينات VIP للواجهة**\nواجهة أوضح، حالات لعب أسهل للفهم، عرض أفضل لأعداد الأحجار، سجل أنظف، ومؤثرات نتائج أكثر أناقة.\n\n💎 **SH-SG-MAX**\nنموذج جديد صُمم ليقدم مستوى أعلى من **القوة، الدقة، السرعة والثبات** في أصعب مواقف اللعب.\n\n👑 **SHUOR VIP — كل تحديث يرفع سقف المنافسة.**",
-    "mandatory": false,
-    "published_at_utc": "2026-09-03T02:36:58Z",
-    "release_tag": "SHUOR_GX_R5-B000040",
-    "package_filename": "SHUOR_GX_R5_B000040.zip",
-    "package_sha256": "8FAD201E0C1A762F3E84AB34BA615B1EE288874A080665531D4BD75AC7DECCDB",
-    "package_size_bytes": 108318760,
-    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000040/SHUOR_GX_R5_B000040.zip",
+    "mandatory": true,
+    "published_at_utc": "2026-09-03T16:15:42Z",
+    "release_tag": "SHUOR_GX_R5-B000041",
+    "package_filename": "SHUOR_GX_R5_B000041.zip",
+    "package_sha256": "7007FF932196E127A30FEEF0356A52F2BA9D041421562600AD11DE5587D7DB29",
+    "package_size_bytes": 107824207,
+    "download_url": "https://github.com/shuor-vip/shuor-updates/releases/download/SHUOR_GX_R5-B000041/SHUOR_GX_R5_B000041.zip",
     "update_mode": "OVERLAY_ALL_V1",
     "install_standard": "SHUOOR_ATOMIC_INSTALL_V3",
     "install_engine_min_version": 3,
@@ -32,11 +32,11 @@
       "license.lic",
       "trusted_state.bin"
     ],
-    "models_policy": "MERGE_KEEP_OLD",
+    "models_policy": "REPLACE_ALL",
     "models_directories": [
       "النماذج",
       "models"
     ]
   },
-  "signature": "QZPoM0mROkSdP3iOVTjEf4eQ85MpPfJUp1k7yFd9xt+LYKMeAX9tSb0kc82/ZrUG95mvvUtr0GqCJYksCNKVBg=="
+  "signature": "ElKSssaBTvSz2Kj0SFW17Ws4tWaS/dibHHaOormQG8mp3y/lNXU2tzYM1o6jmur1fYsZEaI0JkHRsU2jgWLTDw=="
 }
